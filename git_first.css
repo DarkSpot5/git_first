@@ -1,5 +1,6 @@
 body{
     background-color: red;
+    margin-top: 21px;
     cursor: crosshair;
     margin: 20px;
 }
