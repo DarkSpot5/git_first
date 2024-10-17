@@ -16,3 +16,4 @@ commands i have learnt so far:
 13. git reset log_code
 14. git remote add alias_name link_to_be_added_as_Alias
 15. git remote -v
+16. git rebase -i HEAD~n (n: number of previous heads to be changed.)
